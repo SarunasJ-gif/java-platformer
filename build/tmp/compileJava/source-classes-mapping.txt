@@ -1,0 +1,5 @@
+com/nortal/platformer/Platform.java
+ com.nortal.platformer.Platform
+ com.nortal.platformer.Platform$PlatformBuilder
+com/nortal/platformer/Game.java
+ com.nortal.platformer.Game
